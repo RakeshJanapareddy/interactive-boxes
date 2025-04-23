@@ -1,0 +1,29 @@
+:root {
+    /* Primary colors */
+    --primary-color: #ff7a8a;
+    --primary-color-dark: #e56979;
+    --primary-color-light: #ffb3bd;
+    
+    /* Text colors */
+    --text-color: #333333;
+    --text-color-light: #666666;
+    --text-color-lighter: #999999;
+    
+    /* Background colors */
+    --bg-color: #ffffff;
+    --bg-color-dark: #000000;
+    --bg-color-light: #f5f5f5;
+    
+    /* Border colors */
+    --border-color: #dddddd;
+    --border-color-dark: #cccccc;
+    --border-color-light: #eeeeee;
+    
+    /* Status colors */
+    --success-color: #4caf50;
+    --warning-color: #ff9800;
+    --error-color: #f44336;
+    
+    /* Other UI colors */
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
